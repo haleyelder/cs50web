@@ -10,3 +10,5 @@
 - [ ] Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
 
 [specs](https://cs50.github.io/web/projects/0)
+
+[project site](http://haleyelder.com/cs50web/project0/)
