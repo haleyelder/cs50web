@@ -9,6 +9,6 @@
 - [ ] You must use Bootstrap 4 on your website, taking advantage of at least one Bootstrap component, and using at least two Bootstrap columns for layout purposes using Bootstrap’s grid model.
 - [ ] Your stylesheets must use at least one SCSS variable, at least one example of SCSS nesting, and at least one use of SCSS inheritance.
 
-[specs](https://cs50.github.io/web/projects/0)
+[specs](https://docs.cs50.net/web/2018/x/projects/0/project0.html)
 
 [project site](http://haleyelder.com/cs50web/project0/)

@@ -11,5 +11,5 @@
 - [ ] Goodreads Review Data: On your book page, you should also display (if available) the average rating and number of ratings the work has received from Goodreads.
 - [ ] API Access: If users make a GET request to your website’s /api/<isbn> route, where <isbn> is an ISBN number, your website should return a JSON response containing the book’s title, author, publication date, ISBN number, review count, and average score. If the requested ISBN number isn’t in your database, your website should return a 404 error.
 
-[specs](https://cs50.github.io/web/projects/1)
+[specs](https://docs.cs50.net/web/2018/x/projects/1/project1.html)
 
