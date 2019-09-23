@@ -7,7 +7,7 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 
 app = Flask(__name__)
 
-# DATABASE_URL = "postgres://skqoscfvpasiyb:51c91e71d1661887d091d96832e1f9a4ad7a4be420c174d7de8f166e30345973@ec2-54-225-200-15.compute-1.amazonaws.com:5432/dbrogbvguiop8l"
+# DATABASE_URL = 
 
 # Check for environment variable
 if not os.getenv("DATABASE_URL"):
