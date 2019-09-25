@@ -8,6 +8,7 @@ from sqlalchemy.orm import scoped_session, sessionmaker
 app = Flask(__name__)
 
 # DATABASE_URL = 
+#localhost alt
 
 # Check for environment variable
 if not os.getenv("DATABASE_URL"):
@@ -26,5 +27,3 @@ if not os.getenv("DATABASE_URL"):
 @app.route("/")
 def index():
     return "Project 1: TODO"
-
-FLASK_DEBUG=1
